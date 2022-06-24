@@ -1,0 +1,265 @@
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+C:\Users\Admin\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLLoaiSanPham.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhaSanXuat.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLSanPham.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTaiKhoan.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmHoaDon.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.UCLogin.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmUser.resources
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DA_CNPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmAdmin.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmUser.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.UCLogin.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLLoaiSanPham.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhaSanXuat.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLSanPham.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTaiKhoan.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmBanHang.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.PrintHoaDon.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhapKho.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDonHang.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmChiTietPhieuNhap.resources
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTKDTT.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmChiTietPhieuNhap.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDonHang.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhapKho.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTKDTT.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmUser.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.PrintHoaDon.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.UCLogin.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmBanHang.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLLoaiSanPham.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhaSanXuat.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLSanPham.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTaiKhoan.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Nhom3_2001181228_2001181163_2001181365\Source\QuanLyBanHang\obj\Debug\RdlCompile.compiled
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmChiTietPhieuNhap.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDonHang.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhapKho.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTKDTT.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmUser.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.PrintHoaDon.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.UCLogin.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmBanHang.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLLoaiSanPham.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhaSanXuat.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLSanPham.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTaiKhoan.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Namlhu\Downloads\DA_PTPM_NHOM_3\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmChiTietPhieuNhap.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDonHang.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhapKho.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTKDTT.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmUser.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.PrintHoaDon.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.UCLogin.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmBanHang.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLLoaiSanPham.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhaSanXuat.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLSanPham.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTaiKhoan.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK1_2021-2022\OOP\Project_banhang\Group_9\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmChiTietPhieuNhap.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDonHang.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhapKho.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTKDTT.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmUser.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.PrintHoaDon.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.UCLogin.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmBanHang.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLLoaiSanPham.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhaSanXuat.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLSanPham.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTaiKhoan.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS FX 504GE\Downloads\Compressed\Quanlybanhang-main\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmChiTietPhieuNhap.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDonHang.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhapKho.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTKDTT.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmUser.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.PrintHoaDon.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.UCLogin.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmBanHang.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLLoaiSanPham.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhaSanXuat.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLSanPham.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTaiKhoan.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+G:\Download\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmChiTietPhieuNhap.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDonHang.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhapKho.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTKDTT.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmUser.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.PrintHoaDon.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.UCLogin.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangNhap.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmBanHang.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLKhachHang.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLLoaiSanPham.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhanVien.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLNhaSanXuat.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmQLSanPham.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmTaiKhoan.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\workspace-hk2\Do_An_Phan_Mem\Quanlybanhang-main\Source\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
